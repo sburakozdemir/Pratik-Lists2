@@ -48,6 +48,3 @@ foreach (string kahve in kahveler)
 
 Console.WriteLine("\nKahve listeniz hazır. Afiyet olsun!");
 ```
-
-
-## Katkıda Bul
